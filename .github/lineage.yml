@@ -3,4 +3,8 @@ version: "1"
 
 lineage:
   skeleton:
+<<<<<<< HEAD
     remote-url: https://github.com/cisagov/skeleton-packer.git
+=======
+    remote-url: https://github.com/cisagov/skeleton-generic.git
+>>>>>>> dd0d9d699133f962d38ccde13378139f94a95585
